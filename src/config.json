@@ -1,25 +1,24 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
+    { "value": "MXN", "label": "Mexico (MEXS $)" },
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+    { "value": "EUR", "label": "Germany (EUR €)" }    
   ],
   "languageList": [
     { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
+    { "value": "german", "label": "Deutsch" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "facebook": "https://www.facebook.com/",
+    "instagram": "https://www.instagram.com/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://www.youtube.com/"
   },
   "paymentOptions": {
     "visa": true,
     "mastercard": true,
+    "paypal": true,
     "amex": true
   },
   "footerLinks": [
@@ -68,10 +67,10 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Favoritos",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Dragon Ball",
               "menuLink": "/shop"
             },
             {
@@ -89,7 +88,7 @@
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Productos",
           "submenu": [
             {
               "menuLabel": "All clothing",
@@ -114,7 +113,7 @@
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Diseño original",
           "submenu": [
             {
               "menuLabel": "caps & scarves",
