@@ -1,13 +1,11 @@
 {
   "currencyList": [
     { "value": "MXN", "label": "Mexico (MEXS $)" },
-    { "value": "CAD", "label": "Canada (CAD $)" },
-    { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" }    
+    { "value": "USD", "label": "United States (US $)" }
   ],
   "languageList": [
     { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" }
+    { "value": "spanish", "label": "Spanish" }
   ],
   "social": {
     "facebook": "https://www.facebook.com/",
